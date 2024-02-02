@@ -10,7 +10,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_644879-MLA48656467017_122021-O.webp",
             secondImage: "https://media.ldlc.com/r1600/ld/products/00/05/74/25/LD0005742587_1_0005869333.jpg"
         },
-        price: 201000,
+        price: 1600000,
     },
 
     {
@@ -20,10 +20,10 @@ const productos = [
         stock: 7,
         type: "placa de video",
         imageProduct: {
-            firtsImage: "https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-geforce-rtx-3050-8gb-msi-gaming-x-0.jpg",
-            secondImage: "https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-geforce-rtx-3050-8gb-msi-gaming-x-2.jpg"
+            firtsImage: "https://th.bing.com/th/id/R.f8990e77ccc7c8818a7cce3478249bb1?rik=PsD1AD%2b1WCAHnQ&pid=ImgRaw&r=0",
+            secondImage: "https://th.bing.com/th/id/R.f8990e77ccc7c8818a7cce3478249bb1?rik=PsD1AD%2b1WCAHnQ&pid=ImgRaw&r=0"
         },
-        price: 99000,
+        price: 600000,
     },
 
     {
@@ -36,7 +36,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_781239-MLA48656710911_122021-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_859399-MLA49924537069_052022-O.webp"
         },
-        price: 300000,
+        price: 2000000,
     },
 
     //procesadores
@@ -50,7 +50,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_940934-MLU47593217192_092021-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_642030-MLU47593199220_092021-O.webp"
         },
-        price: 65000,      
+        price: 650000,      
     },
 
     {
@@ -63,7 +63,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_729444-MLA42903822558_072020-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_970575-MLA42767646612_072020-O.webp"
         },
-        price: 70000,      
+        price: 700000,      
     },
 
     //mother
@@ -77,7 +77,7 @@ const productos = [
             firtsImage: "https://mexx-img-2019.s3.amazonaws.com/Motherboard-Am4-Asus-Rog-Strix-B550-F-GAMING-WIFI-II_43255_1.jpeg",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_985217-MLA43783495710_102020-W.jpg"
         },
-        price: 54000,      
+        price: 540000,      
     },
 
     {
@@ -89,7 +89,7 @@ const productos = [
         imageProduct: {
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_836693-MLA45005140103_022021-O.webp"
         },
-        price: 54000,      
+        price: 540000,      
     },
 
     //fuentes
@@ -103,7 +103,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_896876-MLA45978614530_052021-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_789796-MLA45978850170_052021-O.webp"
         },
-        price: 31000,      
+        price: 310000,      
     },
 
     {
@@ -116,7 +116,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_839855-MLA45653444301_042021-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_980467-MLA45653376464_042021-O.webp"
         },
-        price: 19000,      
+        price: 190000,      
     },
 
     {
@@ -129,7 +129,7 @@ const productos = [
             firtsImage: "https://http2.mlstatic.com/D_NQ_NP_891364-MLA45686629945_042021-O.webp",
             secondImage: "https://http2.mlstatic.com/D_NQ_NP_952421-MLA45686583993_042021-O.webp"
         },
-        price: 30000,      
+        price: 300000,      
     },
 ]
 

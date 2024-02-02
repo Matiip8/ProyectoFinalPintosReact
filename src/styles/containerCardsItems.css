@@ -1,13 +1,15 @@
-.containerCardItems{
+.containerCardItems {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     padding: 80px 10px;
+    position: relative; /* Añadida posición relativa para alinear correctamente el spinner */
 }
 
-.containerCardItems .containerSpinner{
+.containerCardItems .containerSpinner {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%); /* Centrar el spinner correctamente */
 }
 
